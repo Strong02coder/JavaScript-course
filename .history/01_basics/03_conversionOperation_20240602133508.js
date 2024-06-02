@@ -21,7 +21,7 @@ let booleanIsLoggedIn = Boolean(isLoggedIn);
 let someNumber = 21;
 
 let stringNumber = String(someNumber);
-// console.log(stringNumber);
+k
 // console.log(typeof stringNumber);
 
 
