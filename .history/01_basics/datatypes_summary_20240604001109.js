@@ -43,7 +43,6 @@ const myFunction = function(){
 let myHomename = "Gomji"
 
 let anotherName = myHomename
-anotherName = "Manager Kim"
+ano
 
 console.log(anotherName);
-console.log(myHomename);

@@ -15,7 +15,7 @@ const anotherId = Symbol('123')
 console.log(id === anotherId);
 
 const bigNumber = 3456543576654356754n
-// console.log(typeof bigNumber);
+console.log(typeof bigNumber);
 
 
 
@@ -33,17 +33,10 @@ const myFunction = function(){
     console.log("Hello world");
 }
 
-// console.log(typeof anotherId);
+console.log(typeof anotherId);
 
 // https://262.ecma-international.org/5.1/#sec-11.4.3
 
 
 // ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-let myHomename = "Gomji"
-
-let anotherName = myHomename
-anotherName = "Manager Kim"
-
-console.log(anotherName);
-console.log(myHomename);

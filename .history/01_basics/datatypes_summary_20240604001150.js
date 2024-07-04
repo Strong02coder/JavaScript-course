@@ -46,4 +46,4 @@ let anotherName = myHomename
 anotherName = "Manager Kim"
 
 console.log(anotherName);
-console.log(myHomename);
+console.log();
