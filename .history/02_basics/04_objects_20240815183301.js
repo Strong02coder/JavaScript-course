@@ -1,0 +1,1 @@
+const tinderUser = new Object()
